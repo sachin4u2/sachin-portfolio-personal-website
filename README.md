@@ -7,7 +7,7 @@ Designed with a dark theme, smooth animations, and a clean user interface to pro
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://sach4u2khus.github.io/sachin-portfolio-personal-website/)
+You can view the live website here: [Live Demo](https://sachin4u2.github.io/sachin-portfolio-personal-website/)
 
 ---
 
