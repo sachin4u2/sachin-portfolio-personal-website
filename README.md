@@ -1,5 +1,7 @@
 # Sachin🚀 Personal Portfolio Website
 
+<img width="1539" height="750" alt="Image" src="https://github.com/user-attachments/assets/a3a18fae-e0c5-479c-b3ad-f9c2aade3e0e" />
+
 A modern, sleek, and fully responsive personal portfolio website built to showcase my skills, projects, and experience as a Front-End Developer.  
 Designed with a dark theme, smooth animations, and a clean user interface to provide a professional and interactive experience.
 
